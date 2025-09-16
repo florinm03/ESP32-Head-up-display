@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata and caches
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.DocumentRevisions-V100
+.VolumeIcon.icns
+Icon\r
+
+# Optional editor folders (safe to ignore)
+.vscode/
+.idea/
+
+
